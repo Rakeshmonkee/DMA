@@ -16,6 +16,8 @@
 
 You are probably wondering why I made this repo, and quite frankly, it's because CFW sellers scamming and overpricing their FW that at most probably change a few IDs and say its 1:1
 
+Charging $200+ for a CFW is insane
+
 Thanks Ekknod for this wonderful masterpiece:
 
 ```
