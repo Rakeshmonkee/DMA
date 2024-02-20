@@ -1,8 +1,8 @@
 # Direct Memory Access (DMA)
 
-#### DMA or Direct Memory Access is using an FPGA hardware controller to access the target computer bus master to complete attack operations through memory read and write on a process using a second computer (radar computer.
+DMA, or Direct Memory Access, involves the utilization of a DMA controller to access the memory of a target computer. This allows for efficient data transfer without involving the CPU. In certain contexts, DMA can be exploited for attack operations, wherein a second computer, such as a radar computer, leverages DMA to perform memory read and write operations on a target process.
 
-#### This repo is intended to help with the creation of customised firmware for the DMA controller
+### This repo is intended to help with the creation of customised firmware for DMA controllers
 
 > [!TIP]
 > If you are new to Custom DMA Firmware creation, I leave you with this guide on how to create a basic [DMA CFW](https://github.com/Silverr12/DMA-CFW-Guide) which can be used as a starting point. Once you have a moderate understanding of DMA Firmware, you can go ahead and continue with this guide.
@@ -16,7 +16,7 @@
 
 You are probably wondering why I made this repo, and quite frankly, it's because CFW sellers scamming and overpricing their FW that at most probably change a few IDs and say its 1:1
 
-Charging $200+ for a CFW is insane
+Charging $200+ for a CFW is insane when you can do the same thing yourself with 1hr minimum of work
 
 Thanks Ekknod for this wonderful masterpiece:
 
