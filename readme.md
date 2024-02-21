@@ -14,6 +14,8 @@ DMA, or Direct Memory Access, involves the utilization of a DMA controller to ac
 - [DMA FAQ](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20FAQ.md)
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
 
+##### If you have any questions, feel free to add me on discord: rakeshmonkee
+------------------------
 You are probably wondering why I made this repo, and quite frankly, it's because CFW sellers scamming and overpricing their FW that at most probably change a few IDs and say its 1:1
 
 Charging $200+ for a CFW is insane when you can do the same thing yourself with 1hr minimum of work
