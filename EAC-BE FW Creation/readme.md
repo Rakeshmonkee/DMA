@@ -4,6 +4,6 @@ The customisations that will be done to bypass EAC/BE at a basic level will be i
 
 To bypass EAC/BE at a moderate level you should change a few more values around within the config space and implement Bar Emulation to successfully load the driver of the device you are trying to mimic which can be found [here](https://github.com/Rakeshmonkee/DMA/tree/main/Bar%20Emulation). otherwise, you will most likely see a yellow icon next to the device in Device Manager.
 
-For a high level bypass, use [TLP Emulation](https://github.com/Rakeshmonkee/DMA/tree/main/TLP%20Emulation)
+For a high-level bypass, use [TLP Emulation](https://github.com/Rakeshmonkee/DMA/tree/main/TLP%20Emulation)
 
-You can be assured after you follow the basic steps, you will last a while on any EAC/BE game considering you don't rage cheat and be blatant about cheating. I personally have done the basic step as a test and have lasted over 1 month, no EAC ban but I did receive 1 temp ban for 7 days during the process which was most likely done manually by the server admin because I got too many reports. I got this temp ban because I was too blatant. The game will not be mentioned, but it does use EAC. 
+You can be assured after you follow the basic steps, you will last a while on any EAC/BE game considering you don't rage cheat and be blatant about cheating. I personally have done the basic step as a test and have lasted over 1 month, no EAC ban but I did receive 1 temp ban for 7 days during the process which was most likely done manually by the server admin because I got too many reports. I got this temp ban because I was too blatant. The game will not be mentioned, but it does use EAC. All I can suggest is, don't be blatant about cheating
