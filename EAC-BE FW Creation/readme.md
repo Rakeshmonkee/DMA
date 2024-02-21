@@ -11,6 +11,8 @@ For a high-level bypass, use [TLP Emulation](https://github.com/Rakeshmonkee/DMA
 
 You can be assured after you follow the basic steps, you will last a while on any EAC/BE game considering you don't rage cheat and be blatant about cheating. I personally have done the basic step as a test and have lasted over 1 month, no EAC ban but I did receive 1 temp ban for 7 days during the process which was most likely done manually by the server admin because I got too many reports. I got this temp ban because I was too blatant. The game will not be mentioned, but it does use EAC. All I can suggest is, don't be blatant about cheating
 
+By changing these values to match your donor board, you will be able to bypass EAC/BE at a basic level. No need to go into the Core Top file and change PTRS/NEXT PTRS around. You could possibly even bypass Ricochet AC and maybe even Electronic Arts Anti Cheat. I am not sure about those 2 and have not tested them.
+
 Steps:
 1. Change DSN value[215], master abort flag[209], and bust master[210] in `/PCIeSquirrel/src/pcileech_pcie_cfg_a7.sv` [xx] being the line
 2. Generate the pcileech IP core
@@ -80,5 +82,3 @@ EXT Capabilities Tab:
 
 EXT Capabilities 2 Tab:
 - AER
-
-By changing these values to match your donor board, you will be able to bypass EAC/BE at a moderate level. No need to go into the Core Top file and change PTRS/NEXT PTRS around. You could possibly even bypass Ricochet AC and maybe even Electronic Arts Anti Cheat. I am not sure about those 2 and have not tested them
