@@ -16,7 +16,7 @@ DMA, or Direct Memory Access, involves the utilization of a DMA controller to ac
 
 ##### If you have any questions, feel free to add me on discord: rakeshmonkee
 ------------------------
-You are probably wondering why I made this repo, and quite frankly, it's because CFW sellers scamming and overpricing their FW that at most probably change a few IDs and say its 1:1
+You are probably wondering why I made this repo, and quite frankly, it's because CFW sellers scamming and overpricing their FW that at most probably change a few IDs and say its a full 1:1 emu
 
 Charging $200+ for a CFW is insane when you can do the same thing yourself with 1hr minimum of work
 
