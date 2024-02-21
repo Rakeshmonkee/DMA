@@ -3,6 +3,9 @@
 DMA, or Direct Memory Access, involves the utilization of a DMA controller to access the memory of a target computer. This allows for efficient data transfer without involving the CPU. In certain contexts, DMA can be exploited for attack operations, wherein a second computer, such as a radar computer, leverages DMA to perform memory read and write operations on a target process.
 
 ### This repo is intended to help with the creation of customised firmware for DMA controllers
+> [!IMPORTANT]
+> This repo is a work in progress. Some stuff might change over time
+
 
 > [!TIP]
 > If you are new to Custom DMA Firmware creation, I leave you with this guide on how to create a basic [DMA CFW](https://github.com/Silverr12/DMA-CFW-Guide) which can be used as a starting point. Once you have a moderate understanding of DMA Firmware, you can go ahead and continue with this guide.
