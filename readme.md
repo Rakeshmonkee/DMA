@@ -1,7 +1,7 @@
 ### Custom Direct Memory Access (DMA) Firmware Guide
 
 > [!IMPORTANT]
-> This repo is a work in progress. Some stuff might change over time
+> This repo is a work in progress. Stuff will change overtime
 
 
 > [!TIP]
