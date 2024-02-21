@@ -1,5 +1,7 @@
 ## Automatically generate and customise ip core for pcileech-fpga-4.14/PCIeSquirrel
 
+This is just something I made in 20 mins for fun. Not really a purpose to use but use it if you want.
+
 > [!NOTE]
 > You will need to go into each file and change the file location to the dir of your project
 >
@@ -20,6 +22,7 @@
 - Int Pin
 - Bars
 - Base Ptrs (MSI/MSIx/Header0/PMC/PCIe)
+- Next Ptrs (MSI/MSIx/Header0/PMC/PCIe)
 
 ## Steps:
 1. Make sure Python and Xilinx Vivado is installed on your OS
