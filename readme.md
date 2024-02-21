@@ -14,7 +14,7 @@
 - [DMA FAQ](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20FAQ.md)
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
 
-##### If you have any questions, feel free to add me on discord: rakeshmonkee
+##### If you have any questions, feel free to add me on discord: rakeshmonkee; please don't add me just to ask a stupid question which can be found by googling it 
 ------------------------
 You are probably wondering why I made this repo, and quite frankly, it's because CFW sellers scamming and overpricing their FW that at most probably change a few IDs and say its a full 1:1 emu
 
