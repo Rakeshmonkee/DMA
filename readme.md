@@ -20,6 +20,8 @@ You are probably wondering why I made this repo, and quite frankly, it's because
 
 Charging $200+ for a CFW is insane when you can do the same thing yourself with 1hr minimum of work
 
+Thanks to someone, not naming who for privacy reasons, this list is a thing
+
 ```
 BDE:
 - overprice
