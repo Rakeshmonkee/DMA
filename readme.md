@@ -1,7 +1,7 @@
 ### Custom Direct Memory Access (DMA) Firmware Guide
 
 > [!IMPORTANT]
-> This repo is a work in progress. Stuff will change overtime
+> This repo is a work in progress. Stuff will change over time
 
 
 > [!TIP]
@@ -19,8 +19,6 @@
 You are probably wondering why I made this repo, and quite frankly, it's because CFW sellers scamming and overpricing their FW that at most probably change a few IDs and say its a full 1:1 emu
 
 Charging $200+ for a CFW is insane when you can do the same thing yourself with 1hr minimum of work
-
-Thanks Ekknod for this wonderful masterpiece:
 
 ```
 BDE:
