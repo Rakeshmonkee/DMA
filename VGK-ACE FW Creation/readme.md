@@ -1,6 +1,6 @@
 # Creation of VGK Firmware
 
-#### Before I start this off, I want to thank my friend Movinggun for initially showing me this method/technique on how to bypass VGK
+#### Before I start this off, I want to thank my friend Movinggun for initially showing me this method/technique on how to bypass VGK 💖. Was gonna release this earlier but wanted a go from him.
 
 This section will be quick and easy as there aren't many things to change
 
