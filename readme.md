@@ -25,9 +25,6 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 
 ##### If you have any questions, feel free to add me on discord: rakeshmonkee; please don't add me just to ask a stupid question which can be found by googling it 
 ------------------------
-You are probably wondering why I made this repo, and quite frankly, it's because CFW sellers scamming and overpricing their FW that at most probably change a few IDs and say its a full 1:1 emu
-
-Charging $200+ for a CFW is insane when you can do the same thing yourself with 1hr minimum of work
 
 Thanks to someone, not naming who for privacy reasons, this list is a thing
 
