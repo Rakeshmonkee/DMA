@@ -2,11 +2,11 @@
 
 With the current state of the DMA custom Firmware Market, prices have been F*cked.
 
-Everyone Gate Keeps their methods and techniques which is why the prices are soo high
+Everyone Gate Keeps their methods and techniques which is why the prices are so high
 
 So,
 
-My goal with creating this repo is to f*ck with CFW sellers until the market is not $2000+ for a FACEIT/VGK firmware, or even $150+ for EAC/BE
+My goal with creating this repo is to f*ck with CFW sellers until the market is not $2000+ for a FACEIT/VGK firmware or even $150+ for EAC/BE
 
 
 > [!IMPORTANT]
