@@ -4,6 +4,8 @@
 
 > [!NOTE]
 > This method only works for primarily MSI motherboards, other motherboards may work, but I suggest you use an MSI motherboard for this method.
+>
+> It is been found that some DMA speed tests won't recognise the DMA card and others will
 
 
 This section will be quick and easy as there aren't many things to change
