@@ -2,6 +2,11 @@
 
 #### Before starting this, I want to thank my friend Movinggun for initially showing me this method/technique on how to bypass VGK 💖. I was going to release this earlier but I wanted a go from him.
 
+> [!WARNING]
+> The VGK bypass has possibly been detected as of 5/03/24
+> 
+
+
 > [!NOTE]
 > This method only works for primarily MSI motherboards, other motherboards may work, but I suggest you use an MSI motherboard for this method.
 >
