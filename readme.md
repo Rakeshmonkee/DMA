@@ -17,11 +17,13 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 > If you are new to Custom DMA Firmware creation, I leave you with this guide on how to create a basic [DMA CFW](https://github.com/Silverr12/DMA-CFW-Guide) which can be used as a starting point. Once you have a moderate understanding of DMA Firmware, you can go ahead and continue with this guide.
 
 ### Contents
-- [Bar Emulation](https://github.com/Rakeshmonkee/DMA/tree/main/Bar%20Emulation)
-- [TLP Emulation](https://github.com/Rakeshmonkee/DMA/tree/main/TLP%20Emulation)
 - [Vivado Customisations](https://github.com/Rakeshmonkee/DMA/tree/main/Vivado%20Customisations)
 - [DMA FAQ](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20FAQ.md)
+- [How to Flash](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
+- [Bar Emulation](https://github.com/Rakeshmonkee/DMA/tree/main/Bar%20Emulation)
+- [TLP Emulation](https://github.com/Rakeshmonkee/DMA/tree/main/TLP%20Emulation)
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
+- [VGK/ACE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK-ACE%20FW%20Creation)
 
 ##### If you have any questions, feel free to add me on discord: rakeshmonkee; please don't add me just to ask a stupid question which can be found by googling it 
 ------------------------
