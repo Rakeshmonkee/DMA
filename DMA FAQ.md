@@ -18,5 +18,8 @@ __Why do I get Tiny PCIe TLP Algorithm when running a speed test?__
 __How do I flash my FW?__
 : If you are using 35T, use Open OCD to [program](https://docs.lambdaconcept.com/screamer/programming.html) and [to upgrade](https://docs.lambdaconcept.com/screamer/openocd.html) or visit [How to Flash](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
 
+__What donor board do I need?__
+: Any PCIe Device technically can be used as a donor board. I wouldn't recommend using the values from an already existing PCIe Device you have on your computer. E.g. (GPU). I use an Intel Wifi 6 Ax200 card. You don't need to use this, you can use devices such as video capture cards, USB extensions, Sound Cards, SATA Expansion Cards, and so on.
+
 
 More coming soon
