@@ -13,7 +13,12 @@
 > It is been found that some DMA speed tests won't recognise the DMA card and others will
 
 
+Before you do the steps below, it is required to complete the customisations shown [here](https://github.com/Rakeshmonkee/DMA/blob/main/EAC-BE%20FW%20Creation/EAC-BE%20FW%20Customisations) as the steps below are an add on.
+
+
 This section will be quick and easy as there aren't many things to change
+
+Within the core_top.v file,
 
 1. set `HEADER_TYPE` to 80,
 2. set `CAPABILITIES_PTR` to 80
