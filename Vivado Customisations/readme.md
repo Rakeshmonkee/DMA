@@ -3,7 +3,7 @@
 This is just something I made in 20 mins for fun. Not really a purpose to use but use it if you want. was made for version 4.13. I will upload and update the files soon for 4.14
 
 > [!WARNING]
-> I have uploaded 2 out of the 3 files. the Third file, I am in the middle of changing. Please bare with me.
+> I have uploaded 2 out of the 3 files. the Third file, I am in the middle of changing. Please bear with me.
 
 
 > [!NOTE]
@@ -12,6 +12,11 @@ This is just something I made in 20 mins for fun. Not really a purpose to use bu
 > You will need to comment/uncomment the customisations you want
 > 
 > This doesn't create the .bin file. you will need to open the xpr file in /PCIeSquirrel/pcileech_squirrel and generate the file within Vivado by pressing Generate Bitstream, or Synthesis.
+
+
+
+#### For anyone interested in converting a telescan file (.tlscan) to a (.coe) file, check out this Python script [kweatherman](https://github.com/kweatherman) made. Download [here](https://github.com/Rakeshmonkee/DMA/files/14505478/telescan_to_coe.zip). Thank you for sharing
+
 
 ##### List of possible customisations as of now
 - Device ID
