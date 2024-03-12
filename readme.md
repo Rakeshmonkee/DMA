@@ -20,8 +20,6 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 - [Vivado Customisations](https://github.com/Rakeshmonkee/DMA/tree/main/Vivado%20Customisations)
 - [DMA FAQ](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20FAQ.md)
 - [How to Flash](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
-- [Bar Emulation](https://github.com/Rakeshmonkee/DMA/tree/main/Bar%20Emulation)
-- [TLP Emulation](https://github.com/Rakeshmonkee/DMA/tree/main/TLP%20Emulation)
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
 - [VGK/ACE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK-ACE%20FW%20Creation)
 
