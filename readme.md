@@ -22,6 +22,7 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 - [How to Flash](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
 - [VGK/ACE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK-ACE%20FW%20Creation)
+- [TLSCAN to .COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
 
 #### If you have any questions or want to buy firmware from me, feel free to add me on discord: rakeshmonkee or join my server and make a ticket, either or https://discord.gg/mjgeZ2qc
 ------------------------
