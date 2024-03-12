@@ -17,9 +17,9 @@ import datetime
 import xml.etree.ElementTree
 
 
-assert len(sys.argv) >= 3, 'Missing argument'
+assert len(sys.argv) >= 2, 'Missing argument'
 src_path = os.path.normpath(sys.argv[1])
-dst_path = os.path.normpath(sys.argv[2])
+dst_path = os.path.normpath(os.path.expanduser("~/Desktop") + "/output.coe")
 
 # Load and parse the XML format '.tlscan' file
 bs = xml.etree.ElementTree.parse(str(src_path)).find('.//bytes').text
