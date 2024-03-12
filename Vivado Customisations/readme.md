@@ -15,9 +15,6 @@ This is just something I made in 20 mins for fun. Not really a purpose to use bu
 
 
 
-#### For anyone interested in converting a telescan file (.tlscan) to a (.coe) file, check out this Python script [kweatherman](https://github.com/kweatherman) made. Download [here](https://github.com/Rakeshmonkee/DMA/files/14505478/telescan_to_coe.zip). Thank you for sharing
-
-
 ##### List of possible customisations as of now
 - Device ID
 - Vendor ID
