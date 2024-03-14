@@ -28,7 +28,3 @@ By changing just these 2 values to 80 within the config space, you will break th
 
 
 Now you can save $200+ just by changing 2 lines
-
-# Creation of ACE Firmware
-
-Ace, I will release soon when I feel like it
