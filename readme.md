@@ -23,6 +23,7 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
 - [VGK/ACE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK-ACE%20FW%20Creation)
 - [TLSCAN to .COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
+- [Fiemware Locking](https://github.com/Rakeshmonkee/DMA/tree/main/FirmwareLocking)
 
 #### If you have any questions or problems/issues, feel free to join my server https://discord.gg/mjgeZ2qc and ask in one of the channels that best suits your issue. Or add me on, @rakeshmonkee
 ------------------------
