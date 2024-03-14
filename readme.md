@@ -26,7 +26,7 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 - [Firmware Locking](https://github.com/Rakeshmonkee/DMA/tree/main/FirmwareLocking)
 - [1:1 CFG of real device](https://github.com/Rakeshmonkee/DMA/tree/main/1%3A1%20CFG%20of%20real%20device)
 
-#### If you have any questions or problems/issues, feel free to join my server https://discord.gg/mjgeZ2qc and ask in one of the channels that best suits your issue. Or add me on, @rakeshmonkee
+#### If you have any questions or problems/issues, feel free to join my [discord server](https://discord.gg/WrRvJZaRBk) and ask in one of the channels that best suits your issue. Or add me on, @rakeshmonkee
 ------------------------
 
 Thanks to someone, not naming who for privacy reasons, this list is a thing
