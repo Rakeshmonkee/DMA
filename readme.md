@@ -21,7 +21,7 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 - [DMA FAQ](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20FAQ.md)
 - [How to Flash](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
-- [VGK/ACE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK-ACE%20FW%20Creation)
+- [VGK FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK%20FW%20Creation)
 - [TLSCAN to .COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
 - [Firmware Locking](https://github.com/Rakeshmonkee/DMA/tree/main/FirmwareLocking)
 - [1:1 CFG of real device](https://github.com/Rakeshmonkee/DMA/tree/main/1%3A1%20CFG%20of%20real%20device)
