@@ -24,7 +24,7 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 - [VGK/ACE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK-ACE%20FW%20Creation)
 - [TLSCAN to .COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
 
-#### If you have any questions or want to buy firmware from me, feel free to add me on discord: rakeshmonkee or join my server and make a ticket, either or https://discord.gg/mjgeZ2qc
+#### If you have any questions or problems/issues, feel free to join my server https://discord.gg/mjgeZ2qc and ask in one of the channels that best suits your issue. Or add me on, @rakeshmonkee
 ------------------------
 
 Thanks to someone, not naming who for privacy reasons, this list is a thing
