@@ -28,6 +28,6 @@ EXT_CFG_CAP_PTR
 EXT_CFG_XP_CAP_PTR
 ```
 
-to the blocks, you want your capability to start
+in the core_top.sv file to the blocks, you want your capability to start
 
 3. generate bitstream and flash
