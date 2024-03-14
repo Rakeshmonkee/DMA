@@ -3,6 +3,7 @@
 
 Before we begin, I want to thank [kweatherman](https://github.com/kweatherman) for sharing this Python script he made which will be used to convert a telescan file to the configspace file 
 
+Edit. I did have to change a line for it to work
 
 #### Download the telescan_to_coe.py file above
 
