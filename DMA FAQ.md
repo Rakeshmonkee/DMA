@@ -21,5 +21,13 @@ __How do I flash my FW?__
 __What donor board do I need?__
 : Any PCIe Device technically can be used as a donor board. I wouldn't recommend using the values from an already existing PCIe Device you have on your computer. E.g. (GPU). I use an Intel Wifi 6 Ax200 card. You don't need to use this, you can use devices such as video capture cards, USB extensions, Sound Cards, SATA Expansion Cards, and so on.
 
+__What is Firmware Locking__
+: Firmware locking refers to the process of securing the firmware on a device to prevent unauthorized access, modification, or copying
+
+__How does Firmware Locking Work?__
+: Firmware locking works by getting the EFUSE FUSER_DNA value of the Artix7 chip from your DMA card and running a check on system bootup to check if a hard-coded(yourDNA) value is the same as your Artix7 DNA.
+If the DNA values match, the firmware will work, otherwise, the firmware won't work. This is intended to work for 1 person, and 1 person only since Artix7 chips have their own <b>Unique Identifier</b>(DNA). 
+
+
 
 More coming soon
