@@ -12,7 +12,7 @@ Edit. I did have to change a line for it to work.
 
 You will need to be in the directory of the python file, and you will need to change the directory of where the telescan file is located. 
 
-In my instance, my .tlscan file is on my desktop.
+In my instance, my .tlscan file is on my desktop and is called Ax200.
 
 2. In CMD type in `python telescan_to_coe.py C:/Users/User/Desktop/Ax200.tlscan`
 
