@@ -35,6 +35,15 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 Thanks to someone, not naming who for privacy reasons, this list is a thing
 
 ```
+P1111:
+- overprice 
+- thinks he's better than everyone
+- $650 for half emulation 😆
+
+Kartoxa:
+- Firmware issues
+- overprice
+
 BDE:
 - overprice
 - sold firmware and claimed it was made by ekknod (19/07/2023) when its not.
@@ -45,10 +54,6 @@ BDE:
 DMAKINGDOM:
 - overprice
 - reseller of JS x4 time price 
-
-iThaLove:
-- overprice
-- french 🐶 
 
 FTW-DMA:
 - overprice ($250-$2500)
