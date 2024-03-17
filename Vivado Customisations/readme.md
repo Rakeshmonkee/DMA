@@ -3,7 +3,7 @@
 This is just something I made in 20 mins for fun. Not really a purpose to use but use it if you want. was made for version 4.13. I will upload and update the files soon for 4.14
 
 > [!WARNING]
-> I have uploaded 2 out of the 3 files. the Third file, I am in the middle of changing. Please bear with me.
+> There might be an issue with the vivado.py file. I can't be bothered anymore to update that
 
 
 > [!NOTE]
