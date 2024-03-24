@@ -1,16 +1,7 @@
 ### Custom Direct Memory Access (DMA) Firmware Guide
 
-With the current state of the DMA custom Firmware Market, prices have been F*cked.
-
-Everyone Gate Keeps their methods and techniques which is why the prices are so high
-
-So,
-
-My goal with creating this repo is to f*ck with CFW sellers until the market is not $2000+ for a FACEIT/VGK firmware or even $150+ for EAC/BE
-
-
 > [!IMPORTANT]
-> This repo is a work in progress. Stuff will change over time
+> No longer working on this repo as I don't have enough time
 
 
 > [!TIP]
@@ -23,7 +14,6 @@ My goal with creating this repo is to f*ck with CFW sellers until the market is 
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
 - [VGK FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK%20FW%20Creation)
 - [TLSCAN to .COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
-- [Firmware Locking](https://github.com/Rakeshmonkee/DMA/tree/main/FirmwareLocking)
 - [1:1 CFG of real device](https://github.com/Rakeshmonkee/DMA/tree/main/1%3A1%20CFG%20of%20real%20device)
 
 #### If you have any questions or problems/issues, feel free to join my discord server and ask in one of the channels that best suits your issue.
