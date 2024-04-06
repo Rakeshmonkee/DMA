@@ -29,6 +29,7 @@ P1111:
 - overprice 
 - thinks he's better than everyone
 - $650 for half emulation 😆
+- Sold publicly available FW which is free for $2000+
 
 Kartoxa:
 - Firmware issues
