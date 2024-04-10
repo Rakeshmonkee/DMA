@@ -1,11 +1,11 @@
 ### Custom Direct Memory Access (DMA) Firmware Guide
 
 > [!IMPORTANT]
-> No longer working on this repo as I don't have enough time
+> No longer updating this repo frequently, information not listed here will be given to trusted people, so don't bother asking me if i don't know you
 
 
 > [!TIP]
-> If you are new to Custom DMA Firmware creation, I leave you with this guide on how to create a basic [DMA CFW](https://github.com/Silverr12/DMA-CFW-Guide) which can be used as a starting point. Once you have a moderate understanding of DMA Firmware, you can go ahead and continue with this guide.
+> If you are new to Custom DMA Firmware creation, I leave you with this guide on how to create a basic [DMA CFW](https://github.com/Silverr12/DMA-CFW-Guide) which can be used as a starting point. Once you have a little more understanding of DMA Firmware, you can go ahead and continue with this guide.
 
 ### Contents
 - [Vivado Customisations](https://github.com/Rakeshmonkee/DMA/tree/main/Vivado%20Customisations)
@@ -13,7 +13,7 @@
 - [How to Flash](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
 - [EAC-BE FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/EAC-BE%20FW%20Creation)
 - [VGK FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK%20FW%20Creation)
-- [TLSCAN to .COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
+- [TLSCAN to COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
 - [1:1 CFG of real device](https://github.com/Rakeshmonkee/DMA/tree/main/1%3A1%20CFG%20of%20real%20device)
 
 #### If you have any questions or problems/issues, feel free to join my discord server and ask in one of the channels that best suits your issue.
@@ -25,6 +25,9 @@
 Thanks to someone, not naming who for privacy reasons, this list is a thing
 
 ```
+IThaLove:
+- Overprice
+
 P1111:
 - overprice 
 - thinks he's better than everyone
@@ -45,6 +48,7 @@ BDE:
 DMAKINGDOM:
 - overprice
 - reseller of JS x4 time price 
+- resells unauthorised hardware
 
 FTW-DMA:
 - overprice ($250-$2500)
