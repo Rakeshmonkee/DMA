@@ -25,6 +25,16 @@
 Thanks to someone, not naming who for privacy reasons, this list is a thing
 
 ```
+David-DMA:
+- Uses legit business artwork for his own use, same as logo(crop logo and rotate 90deg)
+- https://cdn.discordapp.com/attachments/1204450534111584257/1230819542809444412/image.png?ex=6634b506&is=66224006&hm=57fd69a91273f6d3efe372a5da165faf1f1ed1c11539f9cf3d31af0541e925a9&
+- https://cdn.discordapp.com/attachments/986931784426090509/1230824143201505371/image.png?ex=6634b94f&is=6622444f&hm=9d74c1ff6056abddd63276e6634a67896789833f9919723d3cd2b917f97ec84f&
+Blocks me after I expose him
+- https://cdn.discordapp.com/attachments/986931784426090509/1230824783948677140/image.png?ex=6634b9e8&is=662244e8&hm=933d08de826418e91e4b01575e2a3f60744ab3d94110286db7d2a8b1c6bb5680&
+- overprice ($250-$500)
+- https://imgur.com/a/HHwtL0I
+- https://imgur.com/yNFl3k2
+
 IThaLove:
 - Overprice
 
@@ -55,10 +65,6 @@ FTW-DMA:
 - they don't even know who has made their firmware 
 - https://imgur.com/a/m63lowY
 
-David-DMA:
-- overprice ($250-$500)
-- https://imgur.com/a/HHwtL0I
-- https://imgur.com/yNFl3k2
 
 LeetDMA/enigma-x1/clutch-solutions:
 - overprice
