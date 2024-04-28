@@ -64,12 +64,6 @@ DMAKINGDOM:
 - reseller of JS x4 time price 
 - resells unauthorised hardware
 
-FTW-DMA:
-- overprice ($250-$2500)
-- they don't even know who has made their firmware 
-- https://imgur.com/a/m63lowY
-
-
 LeetDMA/enigma-x1/clutch-solutions:
 - overprice
 
