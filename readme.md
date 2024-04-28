@@ -1,7 +1,7 @@
 ### Custom Direct Memory Access (DMA) Firmware Guide
 
 > [!IMPORTANT]
-> No longer updating this repo frequently, information not listed here will be given to trusted people, so don't bother asking me if i don't know you
+> No longer updating this repo frequently.
 
 
 > [!TIP]
