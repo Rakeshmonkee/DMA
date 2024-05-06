@@ -2,7 +2,7 @@
 
 ### 35T
 
-Everything done here is on the second computer
+Everything done here is on the second computer. Make sure your cable on the DMA is connected to the JTAG port
 
 > [!IMPORTANT]
 > This will not work with CH347 chips.
@@ -21,11 +21,11 @@ Everything done here is on the second computer
 3. In the drop-down menu, select your device, which should be RS232 +HS(Interface 0)
 4. Click on reinstall driver. This should replace the FTDI Bus Driver with WinUSB 
 
-Let the driver install. No restart is required.
+Let the driver install it. You don't need to restart.
 
 ##### Open OCD and Flash_Screamer
-1. Unzip both of the folders and place them onto your Desktop. There should be the OpenOCD and flash_screamer folder on your Desktop.
-2. With the .bin (Firmware) file you have, place this inside of the flash_screamer folder.
+1. Unzip both of the folders and place them on your Desktop. There should be the OpenOCD and flash_screamer folder on your Desktop.
+2. With your .bin (Firmware) file, place this inside the flash_screamer folder.
 
 
 ##### Flashing Firmware
@@ -67,6 +67,26 @@ This means the Firmware has successfully flashed onto your DMA board.
 You will now need to restart your Main PC. (It is necessary to restart your Main PC after flashing)
 
 
-### 75T
+### 75T and 35T CH347
 
+#### Download 
+-  [Ch347 FPGA Flash tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
+
+#### Chip Info
+
+35T - XC7A35T
+75T - XC7A75T
+
+#### Steps
+
+1. Run the executable
+2. Chose the FPGA chip you have (look at chip info above)
+3. Change from bit to bin in the drop-down
+4. leave the clock speed as the default
+5. Select the .bin file (firmware)
+6. Download
+
+Hitting download should then begin the flashing phase
+
+Once it says something like; Close the ch347 ..... This means the firmware has been flashed
 
