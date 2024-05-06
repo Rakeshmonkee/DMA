@@ -52,7 +52,7 @@ Info : sector 11 took 114 ms
 Info : sector 12 took 108 ms
 ```
 
-Will go up to sector 24
+Will go up to sector 23 or 24
 
 Once it shows something like
 
