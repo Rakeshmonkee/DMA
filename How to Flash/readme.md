@@ -4,6 +4,8 @@
 
 Everything done here is on the second computer
 
+> [!IMPORTANT]
+> This will not work with CH347 chips.
 
 #### Download 
 -  [Open OCD](https://docs.lambdaconcept.com/screamer/_downloads/e72a9b76299cd3a4cb30e53dd62505ff/openocd-win.zip)
