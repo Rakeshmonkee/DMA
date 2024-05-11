@@ -83,7 +83,10 @@ You will now need to restart your Main PC. (It is necessary to restart your Main
 #### Chip Info
 
 35T - XC7A35T
+
 75T - XC7A75T
+
+100T - XC7A100T
 
 #### Steps
 
