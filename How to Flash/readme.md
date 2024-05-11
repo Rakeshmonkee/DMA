@@ -4,6 +4,14 @@
 
 Everything done here is on the second computer. Make sure your cable on the DMA is connected to the JTAG port
 
+This flashing guide will not work for DMA cards such as 
+- Hack DMA
+- MVP DMA
+
+These require tools made by those providers to flash the card.
+
+There may be more cards as well.
+
 > [!IMPORTANT]
 > This will not work with CH347 chips.
 
