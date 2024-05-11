@@ -1,5 +1,11 @@
 # How to Flash DMA Firmware
 
+
+TODO:
+- [ ] 100T flashing
+
+
+
 ### 35T
 
 Everything done here is on the second computer. Make sure your cable on the DMA is connected to the JTAG port
