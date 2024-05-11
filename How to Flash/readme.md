@@ -86,7 +86,6 @@ You will now need to restart your Main PC. (It is necessary to restart your Main
 
 75T - XC7A75T
 
-100T - XC7A100T
 
 #### Steps
 
