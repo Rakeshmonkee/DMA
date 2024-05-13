@@ -45,6 +45,7 @@ IThaLove:
 - Overprice
 
 P1111:
+- https://www.elitepvpers.com/forum/call-duty/5227650-becareful-dma-firmware-market.html
 - overprice 
 - thinks he's better than everyone
 - $650 for half emulation 😆
