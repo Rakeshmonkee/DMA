@@ -1,12 +1,35 @@
 # How to Flash DMA Firmware
 
+> [!NOTE]
+> This is a WIP (WORK IN PROGRESS), not everything is finished
+
 
 TODO:
 - [ ] 100T flashing
 
 
+# Content
+- 35T
+  - [CaptainDMA]()
+    - 3rd Gen(squirrel)
+    - 4th Gen
+    - 4.1th Gen
+    - 5th Gen
+    
+  - [Leet]()
+  - [MVP]()
+  - [HackDMA]()
+- 75T
+  - [CaptainDMA]()
+  - [MVP]()
+- 100T
+  - [Lightingz]
 
-### 35T
+
+
+
+
+### CaptainDMA 35T
 
 Everything done here is on the second computer. Make sure your cable on the DMA is connected to the JTAG port
 
