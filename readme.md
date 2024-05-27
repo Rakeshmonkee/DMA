@@ -43,6 +43,7 @@ Blocks me after I expose him
 
 IThaLove:
 - Overprice
+- Customers ask for help on the FW they bought, itha bans them
 
 P1111:
 - https://www.elitepvpers.com/forum/call-duty/5227650-becareful-dma-firmware-market.html
