@@ -42,7 +42,7 @@ Everything done here is on the second computer. Make sure your cable on the DMA 
 #### Download 
 -  [Open OCD](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash/OpenOCD)
 -  [Zadig](https://zadig.akeo.ie/)
--  [Flash_Screamer](https://docs.lambdaconcept.com/screamer/_downloads/20c4c1c1dc18e10efea198d236ac015f/flash_screamer.zip)
+-  [Flash_Screamer](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash/flash_screamer)
 
 #### Steps
 
