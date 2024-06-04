@@ -5,7 +5,12 @@
 
 
 TODO:
-- [ ] 100T flashing
+- 100T flashing
+
+
+Finished:
+- [X] CaptainDMA
+- [X] GhostDMA
 
 
 # Content
@@ -24,7 +29,7 @@ TODO:
   - [CaptainDMA]()
   - [MVP]()
 - 100T
-  - [Lightingz]
+  - [Lightingz]()
 
 
 
