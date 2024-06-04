@@ -40,7 +40,7 @@ Finished:
 Everything done here is on the second computer. Make sure your cable on the DMA is connected to the JTAG port
 
 #### Download 
--  [Open OCD](https://docs.lambdaconcept.com/screamer/_downloads/e72a9b76299cd3a4cb30e53dd62505ff/openocd-win.zip)
+-  [Open OCD](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash/OpenOCD)
 -  [Zadig](https://zadig.akeo.ie/)
 -  [Flash_Screamer](https://docs.lambdaconcept.com/screamer/_downloads/20c4c1c1dc18e10efea198d236ac015f/flash_screamer.zip)
 
@@ -105,6 +105,9 @@ You will now need to restart your Main PC. (It is necessary to restart your Main
 
 Download the OpenOCD and CH341PAR folders provided above.
 
+- [OpenOCD](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash/OpenOCD)
+- [CH341PAR](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash/CH341PAR)
+
 #### Steps
 1. Put the cable into the JTAG / CFG / UPDATE port on the dma
 2. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install
@@ -125,7 +128,7 @@ Command prompt should spit out sector information, let this run. After its flash
 
 
 
-### 75T and 35T CH347
+# 75T and 35T CH347
 
 #### Download 
 -  [Ch347 FPGA Flash tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
