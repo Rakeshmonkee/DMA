@@ -19,6 +19,7 @@ TODO:
   - [Leet]()
   - [MVP]()
   - [HackDMA]()
+  - [GhostDMA]()
 - 75T
   - [CaptainDMA]()
   - [MVP]()
@@ -29,20 +30,9 @@ TODO:
 
 
 
-### CaptainDMA 35T
+# CaptainDMA 35T
 
 Everything done here is on the second computer. Make sure your cable on the DMA is connected to the JTAG port
-
-This flashing guide will not work for DMA cards such as 
-- Hack DMA
-- MVP DMA
-
-These require tools made by those providers to flash the card.
-
-There may be more cards as well.
-
-> [!IMPORTANT]
-> This will not work with CH347 chips.
 
 #### Download 
 -  [Open OCD](https://docs.lambdaconcept.com/screamer/_downloads/e72a9b76299cd3a4cb30e53dd62505ff/openocd-win.zip)
@@ -102,6 +92,31 @@ shutdown command invoked
 This means the Firmware has successfully flashed onto your DMA board.
 
 You will now need to restart your Main PC. (It is necessary to restart your Main PC after flashing)
+
+
+# GhostDMA 35T
+
+#### Download 
+
+Download the OpenOCD and CH341PAR folders provided above.
+
+#### Steps
+1. Put the cable into the JTAG / CFG / UPDATE port on the dma
+2. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install
+3. Open the OpenOCD folder and place your firmware (.bin) file inside and rename the file to `firmware.bin` instead of the original `pcileech_squirrel_top.bin`
+4. In the OpenOCD folder, type `cmd.exe` into the search address and hit enter
+
+![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/016a29e6-b432-4429-aa74-806b57d914c3)
+
+![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/7ec678b1-094a-4f52-9721-2b12c855a552)
+
+5. in command prompt type in `openocd.exe -f flash.cfg` and hit enter
+![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/660e5f2e-3a5f-4261-baf4-2fae8812de2c)
+
+Command prompt should spit out sector information, let this run. After its flashed, it will say something like `Close CH347`, once this is shown your firmware has been flashed. Restart Main pc to see the changes
+
+
+
 
 
 ### 75T and 35T CH347
