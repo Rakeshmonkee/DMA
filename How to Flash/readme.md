@@ -19,7 +19,7 @@ TODO:
   - [Leet]()
   - [MVP]()
   - [HackDMA]()
-  - [GhostDMA]()
+  - [GhostDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#ghostdma-35t)
 - 75T
   - [CaptainDMA]()
   - [MVP]()
@@ -111,6 +111,7 @@ Download the OpenOCD and CH341PAR folders provided above.
 ![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/7ec678b1-094a-4f52-9721-2b12c855a552)
 
 5. in command prompt type in `openocd.exe -f flash.cfg` and hit enter
+
 ![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/660e5f2e-3a5f-4261-baf4-2fae8812de2c)
 
 Command prompt should spit out sector information, let this run. After its flashed, it will say something like `Close CH347`, once this is shown your firmware has been flashed. Restart Main pc to see the changes
