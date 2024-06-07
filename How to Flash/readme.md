@@ -106,7 +106,7 @@ You will now need to restart your Main PC. (It is necessary to restart your Main
 Download the OpenOCD and CH341PAR folders provided above.
 
 - [OpenOCD](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash/GhostDMA-openocd)
-- [CH341PAR](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash/CH341PAR)
+- [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar)
 
 #### Steps
 1. Put the cable into the JTAG / CFG / UPDATE port on the dma
