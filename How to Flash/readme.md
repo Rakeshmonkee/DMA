@@ -105,7 +105,7 @@ You will now need to restart your Main PC. (It is necessary to restart your Main
 
 Download the OpenOCD and CH341PAR folders provided above.
 
-- [OpenOCD](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash/GhostDMA-openocd)
+- [OpenOCD](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/GhostDMA-openocd.rar)
 - [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar)
 
 #### Steps
