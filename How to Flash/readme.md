@@ -15,7 +15,7 @@ Finished:
 
 # Content
 - 35T
-  - [CaptainDMA]()
+  - [CaptainDMA](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#captaindma-35t)
     - 3rd Gen(squirrel)
     - 4th Gen
     - 4.1th Gen
