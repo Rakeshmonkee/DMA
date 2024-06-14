@@ -5,7 +5,16 @@
 
 
 TODO:
-- 100T flashing
+- ZDMA
+- NinjaDMA 
+- Enigma-X1 DMA
+- RaptorDMA
+- LynxDMA  
+- PCIeScreamer
+- GameboyDMA
+- LeetDMA
+- C1 Terminator
+- MVPDMA
 
 
 Finished:
