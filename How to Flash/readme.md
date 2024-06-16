@@ -12,7 +12,6 @@ TODO:
 - LynxDMA  
 - PCIeScreamer
 - GameboyDMA
-- LeetDMA
 - C1 Terminator
 - MVPDMA
 
@@ -20,6 +19,7 @@ TODO:
 Finished:
 - [X] CaptainDMA
 - [X] GhostDMA
+- [X] LeetDMA
 
 
 # Content
@@ -30,7 +30,7 @@ Finished:
     - 4.1th Gen
     - 5th Gen
     
-  - [Leet]()
+  - [LeetDMA](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#leetdma-35t)
   - [MVP]()
   - [HackDMA]()
   - [GhostDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#ghostdma-35t)
