@@ -31,12 +31,12 @@ Finished:
     - 5th Gen
     
   - [LeetDMA](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#leetdma-35t)
-  - [MVP]()
+  - [MVP](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#mvp-dma-35t--75t)
   - [HackDMA]()
   - [GhostDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#ghostdma-35t)
 - 75T
   - [CaptainDMA]()
-  - [MVP]()
+  - [MVP](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#mvp-dma-35t--75t)
 - 100T
   - [Lightingz]()
 
