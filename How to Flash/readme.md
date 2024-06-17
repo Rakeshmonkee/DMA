@@ -13,13 +13,13 @@ TODO:
 - PCIeScreamer
 - GameboyDMA
 - C1 Terminator
-- MVPDMA
 
 
 Finished:
 - [X] CaptainDMA
 - [X] GhostDMA
 - [X] LeetDMA
+- [X] MVP DMA
 
 
 # Content
@@ -119,7 +119,7 @@ Download the OpenOCD and CH341PAR folders provided above.
 
 #### Steps
 1. Put the cable into the JTAG / CFG / UPDATE port on the dma
-2. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install
+2. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a system information file
 3. Open the OpenOCD folder and place your firmware (.bin) file inside and rename the file to `firmware.bin` instead of the original `pcileech_squirrel_top.bin`
 4. In the OpenOCD folder, type `cmd.exe` into the search address and hit enter
 
@@ -158,7 +158,33 @@ After clicking the start button, the logs section should output a bunch of secto
 After the log says something like, close ch347, this means the firmware has been flashed. Now you can restart main pc
 
 
+# MVP DMA 35T & 75T
 
+#### Download 
+- [MVP DMA Flash Tool](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/MVPDMA.rar)
+- [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar)
+
+#### Steps
+1. Put the cable into the JTAG / CFG / UPDATE port on the DMA
+2. Download the 2 linked files above called MVP DMA Flash Tool, and CH341PAR
+3. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a system information file.
+4. Now place your firmware file in the openocd folder. Make sure the name of the firmware file (.bin) is called `firmware` with the .bin extension on the end.
+5. Open the current directory in command prompt, or go to the file directory path and type in `cmd.exe`. This should open command prompt as a user.
+
+![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/016a29e6-b432-4429-aa74-806b57d914c3)
+
+![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/7ec678b1-094a-4f52-9721-2b12c855a552)
+
+Follow below for the prompt. Make sure to do the prompt for your XC7A chip
+
+### 35T
+`openocd.exe -f xc7a35t.cfg`
+
+### 75T
+`openocd.exe -f xc7a75t.cfg`
+
+
+Command prompt should spit out sector information, let this run. After its flashed, it will say something like `Close CH347`, once this is shown your firmware has been flashed. Restart Main pc to see the changes
 
 
 # 75T and 35T CH347
