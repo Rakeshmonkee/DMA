@@ -121,7 +121,7 @@ Download the OpenOCD and CH341PAR folders provided above.
 
 #### Steps
 1. Put the cable into the JTAG / CFG / UPDATE port on the dma
-2. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a system information file
+2. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a setup information file
 3. Open the OpenOCD folder and place your firmware (.bin) file inside and rename the file to `firmware.bin` instead of the original `pcileech_squirrel_top.bin`
 4. In the OpenOCD folder, type `cmd.exe` into the search address and hit enter
 
@@ -169,7 +169,7 @@ After the log says something like, close ch347, this means the firmware has been
 #### Steps
 1. Put the cable into the JTAG / CFG / UPDATE port on the DMA
 2. Download the 2 linked files above called MVP DMA Flash Tool, and CH341PAR
-3. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a system information file.
+3. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a setup information file.
 4. Now place your firmware file in the openocd folder. Make sure the name of the firmware file (.bin) is called `firmware` with the .bin extension on the end.
 5. Open the current directory in command prompt, or go to the file directory path and type in `cmd.exe`. This should open command prompt as a user.
 
@@ -189,10 +189,55 @@ Follow below for the prompt. Make sure to do the prompt for your XC7A chip
 Command prompt should spit out sector information, let this run. After its flashed, it will say something like `Close CH347`, once this is shown your firmware has been flashed. Restart Main pc to see the changes
 
 
+
+# StarkDMA
+
+#### Download 
+- [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar)
+- [Ch347 FPGA Flash Tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
+
+#### Steps
+1. Put the cable into the JTAG / CFG / UPDATE port on the DMA
+2. Download the 2 linked files above called Ch347 FPGA Flash Tool, and CH341PAR
+3. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a setup information file.
+4. Run `CH347FpgaDownloadTool.exe` as an administrator.
+5. Chose XC7A75T for the chip
+6. Change from bit to bin in the drop-down
+7. Leave the clock speed as the default
+8. Select the .bin file (firmware)
+9. Press the Download button
+
+Hitting download should then begin the flashing phase
+
+Once it says something like; Close the ch347 ..... This means the firmware has been flashed. Restart Main PC to see the changes
+
+
+# OneTap DMA
+
+#### Download 
+- [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar)
+- [Ch347 FPGA Flash Tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
+
+#### Steps
+1. Put the cable into the JTAG / CFG / UPDATE port on the DMA
+2. Download the 2 linked files above called Ch347 FPGA Flash Tool, and CH341PAR
+3. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a setup information file.
+4. Run `CH347FpgaDownloadTool.exe` as an administrator.
+5. Chose XC7A75T for the chip
+6. Change from bit to bin in the drop-down
+7. Leave the clock speed as the default
+8. Select the .bin file (firmware)
+9. Press the Download button
+
+Hitting download should then begin the flashing phase
+
+Once it says something like; Close the ch347 ..... This means the firmware has been flashed. Restart Main PC to see the changes
+
+
 # 75T and 35T CH347
 
 #### Download 
--  [Ch347 FPGA Flash tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
+-  [Ch347 FPGA Flash Tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
 
 #### Chip Info
 
@@ -212,5 +257,5 @@ Command prompt should spit out sector information, let this run. After its flash
 
 Hitting download should then begin the flashing phase
 
-Once it says something like; Close the ch347 ..... This means the firmware has been flashed
+Once it says something like; Close the ch347 ..... This means the firmware has been flashed. Restart Main PC to see the changes
 
