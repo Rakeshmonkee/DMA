@@ -37,8 +37,8 @@ Finished:
 - 75T
   - [CaptainDMA]()
   - [MVP](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#mvp-dma-35t--75t)
-  - [StarkDMA]()
-  - [OneTapDMA]()
+  - [StarkDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#starkdma)
+  - [OneTapDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#onetap-dma)
 - 100T
   - [Lightingz]()
 
