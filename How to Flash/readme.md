@@ -20,6 +20,8 @@ Finished:
 - [X] GhostDMA
 - [X] LeetDMA
 - [X] MVP DMA
+- [X] StarkDMA
+- [X] OnetapDMA
 
 
 # Content
