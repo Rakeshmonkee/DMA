@@ -37,7 +37,8 @@ Finished:
   - [HackDMA]()
   - [GhostDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#ghostdma-35t)
 - 75T
-  - [CaptainDMA]()
+  - [CaptainDMA](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#75t-and-35t-ch347)
+  - [EnigmaX-1](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#75t-and-35t-ch347)
   - [MVP](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#mvp-dma-35t--75t)
   - [StarkDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#starkdma)
   - [OneTapDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#onetap-dma)
