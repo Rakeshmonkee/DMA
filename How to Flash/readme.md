@@ -78,7 +78,7 @@ Let the driver install it. You don't need to restart.
 
 Before Flashing, make sure the USB is connected to the JTAG slot on your DMA board
 
-1. Open the command prompt as a user and cd to `Desktop/flash_screamer`
+1. Open the command prompt as a user and cd to `cd Desktop/flash_screamer`
 2. Once you are in the flash_screamer folder, on a new command line type in `..\openocd\bin\openocd.exe -f flash_screamer_squirrel.cfg`
 3. Your Firmware should flash and show something like
 
