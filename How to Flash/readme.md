@@ -241,6 +241,7 @@ Once it says something like; Close the ch347 ..... This means the firmware has b
 
 #### Download 
 -  [Ch347 FPGA Flash Tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
+-  [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar)
 
 #### Chip Info
 
@@ -251,12 +252,15 @@ Once it says something like; Close the ch347 ..... This means the firmware has b
 
 #### Steps
 
-1. Run the executable
-2. Chose the FPGA chip you have (look at chip info above)
-3. Change from bit to bin in the drop-down
-4. leave the clock speed as the default
-5. Select the .bin file (firmware)
-6. Download
+1. Put the cable into the JTAG / CFG / UPDATE port on the DMA
+2. Download the 2 linked files above called MVP DMA Flash Tool, and CH341PAR
+3. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a setup information file.
+4. run the ch347 FPGA flash tool executable
+5. Chose the FPGA chip you have (look at chip info above)
+6. Change from bit to bin in the drop-down
+7. leave the clock speed as the default
+8. Select your .bin file (firmware) 
+9. Download
 
 Hitting download should then begin the flashing phase
 
