@@ -237,7 +237,7 @@ Hitting download should then begin the flashing phase
 Once it says something like; Close the ch347 ..... This means the firmware has been flashed. Restart Main PC to see the changes
 
 
-# 75T and 35T CH347
+# Captain DMA & Engima 75t
 
 #### Download 
 -  [Ch347 FPGA Flash Tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
