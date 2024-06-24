@@ -7,13 +7,12 @@
 TODO:
 - ZDMA
 - NinjaDMA 
-- Enigma-X1 DMA
 - RaptorDMA
 - LynxDMA  
 - PCIeScreamer
 - GameboyDMA
 - C1 Terminator
-
+- Hack DMA
 
 Finished:
 - [X] CaptainDMA
@@ -22,6 +21,7 @@ Finished:
 - [X] MVP DMA
 - [X] StarkDMA
 - [X] OnetapDMA
+- [X] EnigmaX1 DMA 
 
 
 # Content
@@ -31,19 +31,15 @@ Finished:
     - 4th Gen
     - 4.1th Gen
     - 5th Gen
-    
   - [LeetDMA](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#leetdma-35t)
   - [MVP](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#mvp-dma-35t--75t)
-  - [HackDMA]()
   - [GhostDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#ghostdma-35t)
 - 75T
-  - [CaptainDMA](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#75t-and-35t-ch347)
-  - [EnigmaX-1](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#75t-and-35t-ch347)
+  - [CaptainDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#captain-dma--engima-75t)
+  - [EnigmaX-1](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#captain-dma--engima-75t)
   - [MVP](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash#mvp-dma-35t--75t)
   - [StarkDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#starkdma)
   - [OneTapDMA](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/readme.md#onetap-dma)
-- 100T
-  - [Lightingz]()
 
 
 
