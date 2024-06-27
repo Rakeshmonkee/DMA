@@ -1,13 +1,13 @@
 ### Custom Direct Memory Access (DMA) Firmware Guide
 
+This guide has been made, and is for educational use only
+
+
 > [!IMPORTANT]
 > No longer updating this repo frequently.
 > 
 > This guide is not a spoon feed. I have purposely left out some information. It is your job to learn how to make FW while learning something.
 
-
-> [!TIP]
-> If you are new to Custom DMA Firmware creation, I leave you with this guide on how to create a basic [DMA CFW](https://github.com/Silverr12/DMA-CFW-Guide) which can be used as a starting point. Once you have a little more understanding of DMA Firmware, you can go ahead and continue with this guide.
 
 ### Contents
 - [Vivado Customisations](https://github.com/Rakeshmonkee/DMA/tree/main/Vivado%20Customisations)
