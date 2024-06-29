@@ -5,7 +5,7 @@ Common Types of DMA Errors
 1. [VMM Init fails](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#vmm-init-fail)
 2. [FPGA Error: Unable to connect to USB/FT601 device](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20Troubleshooting/readme.md#fpga-error-unable-to-connect-to-usbft601-device)
 3. [Tiny PCIe TLP Algo](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#tiny-pcie-tlp-algo)
-4. [OpenOCD]()
+4. [OpenOCD](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#openocd)
 
 
 # VMM INIT FAIL
