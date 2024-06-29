@@ -2,7 +2,7 @@
 
 
 Common Types of DMA Errors
-1. [VMM Init fails]()
+1. [VMM Init fails](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#vmm-init-fail)
 2. [FPGA Error: Unable to connect to USB/FT601 device](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20Troubleshooting/readme.md#fpga-error-unable-to-connect-to-usbft601-device)
 3. [Tiny PCIe TLP Algo]()
 
@@ -27,7 +27,6 @@ On the second computer, head to [FTD3XX](https://ftdichip.com/drivers/d3xx-drive
 if your computer is a 64-bit operating system, download the X64 (64-Bit) driver
 
 if your computer is a 32-bit operating system, download the X86 (32-Bit) driver
-
 
 Once the folder has been downloaded, extract the folder to your desktop.
 
@@ -80,6 +79,15 @@ Main reasons why FPGA Error: Unable to connect to USB/FT601 device
 2. Change the cable from the JTAG port to DATA Port
 
 3. See [FTDI DRIVERS](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#1-ftdi-drivers)
+
+
+## Tiny PCIe TLP Algo
+
+Main reasons why Tiny PCIe TLP Algo is chosen
+
+1. Faulty Firmware
+2. Bad / faulty USB Cable.
+
 
 
 
