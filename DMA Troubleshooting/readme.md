@@ -15,9 +15,11 @@ Main Reasons why VMM INIT Failed is thrown when doing a speed test or trying to 
 3. USB Cable is still in JTAG port, not the DATA port.
 4. Bad firmware
 
-
 ### How to fix:
-1. On the second computer, head to [FTDI3XX](https://ftdichip.com/drivers/d3xx-drivers/) website and download the latest compatible driver for your computer.
+
+## 1. FTDI Drivers
+
+On the second computer, head to [FTD3XX](https://ftdichip.com/drivers/d3xx-drivers/) website and download the latest compatible driver for your computer.
 
 ![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/96935470-bd1e-4ef5-a7cc-a9f39ebb8292)
 
@@ -31,4 +33,28 @@ Once the folder has downloaded, extract the folder to your desktop.
 Back in the folder right right-click on the `ftdibus3.inf` file and click install.
 
 ![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/c10aa9c9-ecea-4653-bd6e-80eecb863578)
+
+## 2. Disabling Virtualisation / IOMMU
+
+The following steps are within the BIOS
+
+
+### MSI Click BIOS:
+OC > Advanced CPU Configuration > SVM Mode > Disabled
+
+### ASUS BIOS:
+
+Advanced Mode[F7] > Advanced > CPU Configuration > Intel [VMX] Virtualisation Technology > Disabled
+
+### Gigabyte BIOS:
+
+Advanced Mode[F2] > Tweaker > Advanced CPU Settings > SVM Mode > Disabled
+
+### ASRock:
+
+Advanced > CPU Configuration > SVM MODE > Disabled
+
+### Biostar:
+
+Advanced > CPU Settings and Information > Intel Virtualisation > Disabled
 
