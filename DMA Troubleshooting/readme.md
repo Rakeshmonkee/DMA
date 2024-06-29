@@ -4,10 +4,11 @@
 Common Types of DMA Errors
 1. [VMM Init fails](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#vmm-init-fail)
 2. [FPGA Error: Unable to connect to USB/FT601 device](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20Troubleshooting/readme.md#fpga-error-unable-to-connect-to-usbft601-device)
-3. [Tiny PCIe TLP Algo]()
+3. [Tiny PCIe TLP Algo](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#tiny-pcie-tlp-algo)
+4. [OpenOCD]()
 
 
-## VMM INIT FAIL
+# VMM INIT FAIL
 
 Main reasons why VMM INIT failed is thrown when doing a speed test or trying to connect the DMA to VMM
 
@@ -16,9 +17,9 @@ Main reasons why VMM INIT failed is thrown when doing a speed test or trying to 
 3. USB Cable is still in JTAG port, not the DATA port.
 4. Bad firmware
 
-### How to fix:
+## How to fix:
 
-## 1. FTDI Drivers
+### 1. FTDI Drivers
 
 On the second computer, head to [FTD3XX](https://ftdichip.com/drivers/d3xx-drivers/) website and download the latest compatible driver for your computer.
 
@@ -34,7 +35,7 @@ Back in the folder right right-click on the `ftdibus3.inf` file and click instal
 
 ![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/c10aa9c9-ecea-4653-bd6e-80eecb863578)
 
-## 2. Disabling Virtualisation / IOMMU
+### 2. Disabling Virtualisation / IOMMU
 
 The following steps are within the BIOS
 
@@ -61,7 +62,7 @@ Advanced > CPU Settings and Information > Intel Virtualisation > Disabled
 
 
 
-## FPGA Error: Unable to connect to USB/FT601 device
+# FPGA Error: Unable to connect to USB/FT601 device
 
 Main reasons why FPGA Error: Unable to connect to USB/FT601 device
 
@@ -69,26 +70,51 @@ Main reasons why FPGA Error: Unable to connect to USB/FT601 device
 2. USB Cable is still in JTAG port, not the DATA port.
 3. FTDI Drivers on radar / second PC are not correctly installed / corrupted
 
-### How to fix:
+## How to fix:
 
-1. Buying a new USB-C to USB A cable. I recommend this USB Cable from [AMAZON](https://www.amazon.com.au/CableCreation-Transfer-10Gbps-Charging-External/dp/B09QKHPT35/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.Gf0JIfmmFhmI5TU_Hx-PfacNeAkKjmOlBeBQaKN5Xhblz2OF36mS3-0MK8Wo29I3qt4ENT1PMhz4ZhaDJQyAi7vufKb8VNex0zjJ616vM7wSm3wKbycBQEFiLNzK2PVC7A8DuTQ_7t5peKKf9irUWh5YSKGkPlv0IJKr99c34lmWqUjXwH7ywQFE7-XH27eh5WNilpeUUhX0VNogKm3mMVq_955BqxYOTdbvLpAnQPbrXCMZ37pyfRKBtHUP0OoQz9Qof_LYDRD8ePw5jf-yNQKIZQJvFSh25MHzqA-2c-I.JHVF_jJx0q260kYEsskiyps3NBXaqnXc8__Cn4lgsHc&dib_tag=se&keywords=usb%2Bc%2Bto%2Busb%2Ba%2B3.2&qid=1719671885&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+### 1. Buying a new USB-C to USB A cable. I recommend this USB Cable from [AMAZON](https://www.amazon.com.au/CableCreation-Transfer-10Gbps-Charging-External/dp/B09QKHPT35/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.Gf0JIfmmFhmI5TU_Hx-PfacNeAkKjmOlBeBQaKN5Xhblz2OF36mS3-0MK8Wo29I3qt4ENT1PMhz4ZhaDJQyAi7vufKb8VNex0zjJ616vM7wSm3wKbycBQEFiLNzK2PVC7A8DuTQ_7t5peKKf9irUWh5YSKGkPlv0IJKr99c34lmWqUjXwH7ywQFE7-XH27eh5WNilpeUUhX0VNogKm3mMVq_955BqxYOTdbvLpAnQPbrXCMZ37pyfRKBtHUP0OoQz9Qof_LYDRD8ePw5jf-yNQKIZQJvFSh25MHzqA-2c-I.JHVF_jJx0q260kYEsskiyps3NBXaqnXc8__Cn4lgsHc&dib_tag=se&keywords=usb%2Bc%2Bto%2Busb%2Ba%2B3.2&qid=1719671885&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
 ![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/10bf26d1-ccb2-4b6c-9819-8353482959de)
 
 
-2. Change the cable from the JTAG port to DATA Port
+### 2. Change the cable from the JTAG port to DATA Port
 
-3. See [FTDI DRIVERS](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#1-ftdi-drivers)
+### 3. See [FTDI DRIVERS](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#1-ftdi-drivers)
 
 
 ## Tiny PCIe TLP Algo
 
 Main reasons why Tiny PCIe TLP Algo is chosen
 
-1. Faulty Firmware
-2. Bad / faulty USB Cable.
+### 1. Faulty Firmware
+
+Sometimes faulty firmware can cause Tiny PCIe TLP Algo error. The only impact this has on the DMA is the throughput speeds and read speeds
+
+### 2. Bad / faulty USB Cable. 
+
+See [USB-C to USB A Cable](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting#how-to-fix-1) on how to fix this issue
+
+
+# OpenOCD
+
+Types of Errors:
+
+1. `Info : auto-selecting first available session transport "jtag". To override use 'transport select <transport>'.`
 
 
 
+## How to fix:
 
+### 1. Auto Selecting JTAG 
 
+For which ever device you are using, make sure to download the drivers correctly. [WinUSB](https://zadig.akeo.ie/), [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar), or check [Flashing Guide](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
+
+Make sure when you are installing the drivers, the cable is in the JTAG port.
+
+OR
+
+A simple restart on your second computer can fix this issue
+
+OR
+
+Putting the USB Cable into the JTAG port
