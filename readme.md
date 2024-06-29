@@ -1,6 +1,6 @@
 ### Custom Direct Memory Access (DMA) Firmware Guide
 
-This guide has been made, and is for educational use only
+This guide has been made and is for educational use only
 
 
 > [!IMPORTANT]
@@ -17,6 +17,7 @@ This guide has been made, and is for educational use only
 - [VGK FW Creation](https://github.com/Rakeshmonkee/DMA/tree/main/VGK%20FW%20Creation)
 - [TLSCAN to COE](https://github.com/Rakeshmonkee/DMA/tree/main/.tlscan%20to%20.coe)
 - [1:1 CFG of real device](https://github.com/Rakeshmonkee/DMA/tree/main/1%3A1%20CFG%20of%20real%20device)
+- [DMA Troubleshooting](https://github.com/Rakeshmonkee/DMA/tree/main/DMA%20Troubleshooting)
 
 #### If you have any questions or problems/issues, feel free to join my discord server and ask in one of the channels that best suits your issue.
 
