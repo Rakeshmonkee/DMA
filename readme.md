@@ -4,9 +4,9 @@ This guide has been made and is for educational use only
 
 
 > [!IMPORTANT]
-> No longer updating this repo frequently.
 > 
 > This guide is not a spoon feed. I have purposely left out some information. It is your job to learn how to make FW while learning something.
+> 
 
 
 ### Contents
