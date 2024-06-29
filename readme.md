@@ -1,6 +1,13 @@
-### Custom Direct Memory Access (DMA) Firmware Guide
+## DMA Firmware, Flashing, trouble-shooting Guide.
 
-This guide has been made and is for educational use only
+The point of making this repo is to reduce the price of DMA custom firmware. But now, it is more of a repo to help people with DMA
+
+
+
+> [!WARNING]
+> 
+> This guide has been specifically created for educational purposes to provide valuable information and insights to help users understand anything todo with DMA, Firmware creation, Flashing, and Trouble-shooting
+> 
 
 
 > [!IMPORTANT]
@@ -26,6 +33,8 @@ This guide has been made and is for educational use only
 ------------------------
 
 Thanks to someone, not naming who for privacy reasons, this list is a thing
+
+This list is who to avoid / watch-out for if buying DMA hardware, software, or firmware.
 
 ```
 David-DMA:
