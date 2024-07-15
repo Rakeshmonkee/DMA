@@ -138,25 +138,27 @@ Command prompt should spit out sector information, let this run. After its flash
 # LeetDMA 35T
 
 #### Download 
-- [LeetDMA Flash Tool](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/LeetDMA-Tools.zip)
 
+Download the OpenOCD and CH341PAR folders provided above.
+
+- [OpenOCD](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/GhostDMA-openocd.rar)
+- [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar)
 
 #### Steps
-1. Put the cable into the JTAG / CFG / UPDATE port on the DMA
-2. open `LeetDMA Tools_V2.exe`
-3. In the top-left corner click on driver installation, and click on install driver
-   
-![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/0b1ccfb5-f00b-49ad-84b0-ca9fd664002a)
+1. Put the cable into the JTAG / CFG / UPDATE port on the dma
+2. Open the CH341PAR folder and once open, right-click on the `CH341WDM.inf` file and click install. The file extension might not show, so look for a setup information file
+3. Open the OpenOCD folder and place your firmware (.bin) file inside and rename the file to `firmware.bin` instead of the original `pcileech_squirrel_top.bin`
+4. In the OpenOCD folder, type `cmd.exe` into the search address and hit enter
 
-5. After the driver has installed, in the select firmware box, select your firmware
+![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/016a29e6-b432-4429-aa74-806b57d914c3)
 
-![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/d7c1a60b-6a18-4112-bc53-3ff2dfcf2f4c)
+![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/7ec678b1-094a-4f52-9721-2b12c855a552)
 
-7. After your driver has been installed and firmware has been selected, click on the start button
+5. in command prompt type in `openocd.exe -f flash.cfg` and hit enter
 
-After clicking the start button, the logs section should output a bunch of sectors and random data.
+![image](https://github.com/Rakeshmonkee/DMA/assets/89455475/660e5f2e-3a5f-4261-baf4-2fae8812de2c)
 
-After the log says something like, close ch347, this means the firmware has been flashed. Now you can restart main pc
+Command prompt should spit out sector information, let this run. After its flashed, it will say something like `Close CH347`, once this is shown your firmware has been flashed. Restart Main pc to see the changes
 
 
 # MVP DMA 35T & 75T
