@@ -1,6 +1,7 @@
 ## DMA Firmware, Flashing, trouble-shooting Guide.
 
-The point of making this repo is to reduce the price of DMA custom firmware. But now, it is more of a repo to help people with DMA
+The point of making this repo is to reduce the price of DMA custom firmware. But now, it is more of a repo to help people with DMA.
+
 
 
 
@@ -85,3 +86,12 @@ asdfware-dma:
 - half emu/other keywords like that doesn't sound very promising
 - https://i.imgur.com/5TgBB0S.png
 ```
+
+# Disclaimer:
+
+The content of this post is intended for educational and informational purposes only. Any references to anti-cheat software, including but not limited to descriptions, functionalities, or general characteristics, are made in the context of promoting security awareness and understanding within the software development community. This post does not endorse or promote any actions that would violate the terms of service of any software or service.
+
+All trademarks, service marks, and company names are the property of their respective owners. The use of these names, logos, and brands is for identification purposes only and does not imply endorsement. If you represent a company and believe this post infringes on your intellectual property, please contact me, and I will take appropriate action.
+
+
+
