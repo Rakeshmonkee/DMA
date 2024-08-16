@@ -3,7 +3,7 @@
 #### Before starting this, I want to thank my friend Movinggun for initially showing me this method/technique on how to bypass VGK 💖. I was going to release this earlier but I wanted a go from him.
 
 > [!WARNING]
-> The VGK bypass has possibly been detected as of 5/03/24
+> The VGK bypass has been patched, and no longer works. Props to them for being malware. no Anti-Cheese should run at UEFI boot.
 > 
 
 
