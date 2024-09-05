@@ -14,7 +14,7 @@ You can be assured after you follow the basic steps, you will last a while on an
 By changing these values to match your donor board, you can bypass some Anti-Cheeses at a basic level. You don't need to go into the Core Top file and change PTRS/NEXT PTRS around. You could maybe even bypass Ricochet AC and maybe even Electronic Arts Anti Cheat. I am not sure about those 2 and have not tested them.
 
 Steps:
-1. Change DSN value[215], master abort flag[209], and bust master[210] in `/PCIeSquirrel/src/pcileech_pcie_cfg_a7.sv` [xx] being the line
+1. Change DSN value[215], master abort flag[209], and bus master[210] in `/PCIeSquirrel/src/pcileech_pcie_cfg_a7.sv` [xx] being the line
 2. Generate the pcileech IP core
 3. Under the basic tab in the `Re-Customise IP` UI, set the Mode to `Advanced`
 
