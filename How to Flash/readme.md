@@ -238,7 +238,7 @@ Once it says something like; Close the ch347 ..... This means the firmware has b
 # Captain DMA & Engima 75t
 
 #### Download 
--  [Ch347 FPGA Flash Tool](https://github.com/WCHSoftGroup/ch347/tree/main/CH347FPGATool)
+-  [Ch347 FPGA Flash Tool](https://github.com/WCHSoftGroup/ch347/releases/tag/CH347_OpenOCD_Release)
 -  [CH341PAR](https://github.com/Rakeshmonkee/DMA/blob/main/How%20to%20Flash/CH341PAR.rar)
 
 #### Chip Info
