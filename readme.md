@@ -18,6 +18,7 @@ The point of making this repo is to reduce the price of DMA custom firmware. But
 
 
 ### Contents
+- [Automatic Firmware Creation](https://github.com/Rakeshmonkee/DMA/tree/main/Automatic%20Firmware%20Creation)
 - [Vivado Customisations](https://github.com/Rakeshmonkee/DMA/tree/main/Vivado%20Customisations)
 - [DMA FAQ](https://github.com/Rakeshmonkee/DMA/blob/main/DMA%20FAQ.md)
 - [How to Flash](https://github.com/Rakeshmonkee/DMA/tree/main/How%20to%20Flash)
