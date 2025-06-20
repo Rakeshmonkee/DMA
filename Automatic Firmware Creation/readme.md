@@ -2,6 +2,10 @@
 
 Parts of this part have been redacted to ensure people who paste firmware cannot abuse this script. Those who have used Vivado and its TCL commands within Vivado will know what goes where. It's pretty simple. HINT: You can get all the commands from within the terminal in Vivado while generating the core and bitstream. TCL is needed to create the firmware with vivado.bat. I'm not telling which and where the commands are supposed to go. It's your job to learn 💖
 
+Parts to do yourself:
+- generatebitstream_tcl_name TCL file
+- tcl_script_name TCL file
+
 
 ## Requirements
 1. Python 3.13
