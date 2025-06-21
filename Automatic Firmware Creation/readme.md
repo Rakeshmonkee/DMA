@@ -8,7 +8,7 @@ This video showcases what happens when everything is working.
 
 https://youtu.be/qU3CvEFWHAA
 
-
+TCL scripts and files being replaced are configured to my firmware (Sound Card). If you want to create NIC firmware, you will need to change the `tcl_script_name` Script, and the files that are being replaced.
 
 
 
