@@ -17,14 +17,14 @@ https://youtu.be/qU3CvEFWHAA
 
 ### Scripts used in video
 
-```
+```tcl
 Soundcard.tcl
 35tgeneratebitstream.tcl
 ```
 
 ### Files replaced in video
 
-```
+```python
 pcie_7x_0_core_top.v
 pcileech_bar_zero4k.coe
 pcileech_cfgspace.coe
@@ -53,7 +53,7 @@ Example:
 
 Original pcileech_cfgspace.coe
 
-```
+```python
 memory_initialization_radix=16;
 memory_initialization_vector=
 
@@ -78,7 +78,7 @@ fffff0f0,fffff0f4,fffff0f8,fffff0fc,
 
 When replacing the original with your updated pcileech_cfgspace.coe
 
-```
+```python
 memory_initialization_radix=16;
 memory_initialization_vector=
 
@@ -107,7 +107,7 @@ TCL scripts and files being replaced are configured to my firmware (Sound Card).
 
 Scripts can be used to make 35t, 75t, 100t, and M.2. You'll need to edit the Python script, and `tcl_script_name` for that part.
 
-```
+```tcl
 35t - open_project pcileech_squirrel.xpr
 75t - open_project pcileech_enigma_x1.xpr
 100t - open_project pcileech_tbx4_100t.xpr
@@ -116,7 +116,7 @@ M.2 - open_project pcileech_screamer_m2.xpr
 
 ### 35T py
 
-```
+```python
 tcl_script_name = "SoundCard.tcl"
 generatebitstream_tcl_name = "35tgeneratebitstream.tcl"
 
@@ -144,7 +144,7 @@ vivado_path, generatebitstream_tcl_path))
 
 ### 75T py
 
-```
+```python
 tcl_script_name = "SoundCard.tcl"
 generatebitstream_tcl_name = "75tgeneratebitstream.tcl"
 
@@ -169,7 +169,7 @@ vivado_path, generatebitstream_tcl_path))
 
 ### 100T py
 
-```
+```python
 tcl_script_name = "SoundCard_100t.tcl"
 generatebitstream_tcl_name = "100tgeneratebitstream.tcl"
 
@@ -194,7 +194,7 @@ edit_file(os.path.join(repo_dir, '100T/src/pcileech_pcie_cfg_a7.sv'))
 ```
 
 ### M.2 py
-```
+```python
 tcl_script_name = "SoundCard.tcl"
 generatebitstream_tcl_name = "M.2generatebitstream.tcl"
 
@@ -224,7 +224,7 @@ thread = threading.Thread(target=replace_file_if_directory_exists, args=(
 
 ## project.py
 
-``` py
+```python
 replacement_file_prefix
 vivado_path
 tcl_script_name
@@ -243,7 +243,7 @@ last_replacement_files is the directory where the last replacement file will be,
 
 ## tcl_script_name
 #### Example TCL script
-```
+```tcl
 source vivado_generate_project.tcl -notrace
 
 set_property -dict [list \
@@ -258,7 +258,7 @@ lock core command here
 
 ## generatebitstream_tcl_name
 #### Example TCL script
-```
+```tcl
 open_project xpr file name
 
 update_compile_order -fileset sources_1
