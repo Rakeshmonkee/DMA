@@ -2,9 +2,20 @@
 
 Parts of this part have been redacted to ensure people who paste firmware cannot abuse this script. Those who have used Vivado and its TCL commands within Vivado will know what goes where. It's pretty simple. HINT: You can get all the commands from within the terminal in Vivado while generating the core and bitstream. TCL is needed to create the firmware with vivado.bat. I'm not telling which and where the commands are supposed to go. It's your job to learn 💖
 
+To those who think the script is useless, you are correct. It is useless as is. It is your job to create and modify the TCL files to your firmware specifics, the same as the files that are being replaced. Once you get the TCL files completed, the script is no longer useless. See the examples of the TCL scripts below (NOTE: SOME COMMANDS IN THE EXAMPLES ARE MISSING).
+
+This video showcases what happens when everything is working.
+
+https://youtu.be/qU3CvEFWHAA
+
+
+
+
+
 Parts to do yourself:
 - generatebitstream_tcl_name TCL file
 - tcl_script_name TCL file
+- Replacement files
 
 
 ## Requirements
