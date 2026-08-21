@@ -2,7 +2,7 @@
 
 DMA (Direct Memory Access) is a mechanism that allows a hardware device to directly read from or write to system memory without requiring the CPU to perform each individual memory transfer. DMA is commonly used by legitimate hardware such as network cards, storage controllers, and GPUs to efficiently transfer data between the device and system memory. DMA used to and still is actively being abused in video games to bypass anti-cheat systems with the sole purpose to cheat. By having a specialised DMA card to conduct the DMA operation powered by the Firmware on the FPGA (Field Programmable Gate Array), the card disguises itself as legitimate PCIE devices to look like a real device to the computer and anti-cheat. By connecting to the PCIe bus, the DMA card can directly access system memory without needing the CPU to execute instructions to read from or write to a memory address, which anti-cheat systems may attempt to detect using various heuristic techniques.
 
-The original goal of this repository was to make custom DMA firmware more accessible and affordable. Over time, however, its purpose has evolved into a resource for helping users troubleshoot issues with their DMA card.
+The original goal of this repository was to make custom DMA firmware more accessible and affordable. Over time, however, its purpose has evolved into a resource for helping users troubleshoot issues with their DMA card or help with creating firmware.
 
 
 
